@@ -11,6 +11,17 @@ A UK-based online retail store has captured the sales data for different product
 # 1. Business Problem.
 Find significant customers for the business who make high purchases of their favourite products. The organization wants to roll out a loyalty program, called Insiders, to the high-value customers after identification of segments.
 
+**Dataset Description**
+Attribute     Description
+InvoiceNo     Invoice number (A 6-digit integral number uniquely assigned to each transaction)
+StockCode     Product (item) code
+Description   Product (item) name
+Quantity      The quantities of each product (item) per transaction
+InvoiceDate   The day when each transaction was generated
+UnitPrice     Unit price (Product price per unit)
+CustomerID    Customer number (Unique ID assigned to each customer)
+Country       Country name (The name of the country where each customer resides)
+
 # 2. Business Assumptions.
 # 3. Solution Strategy
 My strategy to solve this challenge was:
