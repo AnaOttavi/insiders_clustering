@@ -1,9 +1,11 @@
 # Insiders Clustering
 Project from Data Science Community, mentoring by Meigarom Lopes. The business problem is selecting customers to create a loyalty program called Insiders.
 Status: on going
-1. Business Problem.
-2. Business Assumptions.
-3. Solution Strategy
+
+# 1. Business Problem.
+
+# 2. Business Assumptions.
+# 3. Solution Strategy
 My strategy to solve this challenge was:
 
 Step 01. Data Description:
@@ -26,7 +28,7 @@ Step 09. Convert Model Performance to Business Values:
 
 Step 10. Deploy Modelo to Production:
 
-4. Top 3 Data Insights
+# 4. Top 3 Data Insights
 Hypothesis 01:
 
 True/False.
@@ -39,11 +41,11 @@ Hypothesis 03:
 
 True/False.
 
-5. Machine Learning Model Applied
-6. Machine Learning Modelo Performance
-7. Business Results
-8. Conclusions
-9. Lessons Learned
-10. Next Steps to Improve
-LICENSE
-All Rights Reserved - Comunidade DS 2021
+# 5. Machine Learning Model Applied
+# 6. Machine Learning Modelo Performance
+# 7. Business Results
+# 8. Conclusions
+# 9. Lessons Learned
+# 10. Next Steps to Improve
+# LICENSE
+# All Rights Reserved - Comunidade DS 2021
