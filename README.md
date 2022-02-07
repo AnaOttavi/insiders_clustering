@@ -1,8 +1,8 @@
 # Insiders Clustering
-Project from Data Science Community, mentoring by Meigarom Lopes. The business problem is selecting customers to create a loyalty program called Insiders.
-Status: on going
+Project from Data Science Community, mentoring by Meigarom Lopes. Status: on going
 
 # 1. Business Problem.
+Project from Data Science Community, mentoring by Meigarom Lopes. The business problem is selecting customers to create a loyalty program called Insiders.
 
 # 2. Business Assumptions.
 # 3. Solution Strategy
@@ -20,13 +20,13 @@ Step 05. Data Preparation:
 
 Step 06. Feature Selection:
 
-Step 07. Machine Learning Modelling:
+Step 07. Hyperparameter Fine_Tunning:
 
-Step 08. Hyperparameter Fine Tunning:
+Step 08. Model training:
 
-Step 09. Convert Model Performance to Business Values:
+Step 09. Cluster Analysis:
 
-Step 10. Deploy Modelo to Production:
+Step 10. Deploy to Production:
 
 # 4. Top 3 Data Insights
 Hypothesis 01:
