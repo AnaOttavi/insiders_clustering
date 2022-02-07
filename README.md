@@ -1,4 +1,8 @@
 # Insiders Clustering
+
+![fidelidade](https://user-images.githubusercontent.com/86486485/152856385-609e032b-daf4-4fd7-95bf-f43af9939d27.jpg)
+
+
 Project from Data Science Community, mentoring by Meigarom Lopes. Status: on going
 
 The business problem is selecting customers to create a loyalty program called Insiders.
