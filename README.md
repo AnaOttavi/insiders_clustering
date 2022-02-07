@@ -3,7 +3,7 @@
 ![fidelidade](https://user-images.githubusercontent.com/86486485/152856385-609e032b-daf4-4fd7-95bf-f43af9939d27.jpg)
 
 
-Project from Data Science Community, mentoring by Meigarom Lopes. Status: on going
+Project from Data Science Community, mentoring by Meigarom Lopes. **Status: on going**
 
 The business problem is selecting customers to create a loyalty program called Insiders.
 A UK-based online retail store has captured the sales data for different products for the period of one year (Nov 2016 to Dec 2017). The organization sells gifts primarily on the online platform. The customers who make a purchase consume directly for themselves. There are small businesses that buy in bulk and sell to other customers through the retail outlet channel.
