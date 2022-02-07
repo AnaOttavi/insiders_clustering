@@ -1,8 +1,11 @@
 # Insiders Clustering
 Project from Data Science Community, mentoring by Meigarom Lopes. Status: on going
 
-# 1. Business Problem.
 The business problem is selecting customers to create a loyalty program called Insiders.
+A UK-based online retail store has captured the sales data for different products for the period of one year (Nov 2016 to Dec 2017). The organization sells gifts primarily on the online platform. The customers who make a purchase consume directly for themselves. There are small businesses that buy in bulk and sell to other customers through the retail outlet channel.
+
+# 1. Business Problem.
+Find significant customers for the business who make high purchases of their favourite products. The organization wants to roll out a loyalty program, called Insiders, to the high-value customers after identification of segments.
 
 # 2. Business Assumptions.
 # 3. Solution Strategy
