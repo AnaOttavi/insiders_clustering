@@ -1,16 +1,16 @@
 # Insiders Clustering
 
-![fidelidade](https://user-images.githubusercontent.com/86486485/152856385-609e032b-daf4-4fd7-95bf-f43af9939d27.jpg)
-
-Project from Data Science Community, mentoring by Meigarom Lopes. **Status: on going**
+Project from Data Science Community, mentoring by Meigarom Lopes.
 
 The business problem is selecting customers to create a loyalty program called Insiders.
 A UK-based online retail store has captured the sales data for different products for the period of one year (Nov 2016 to Dec 2017). The organization sells gifts primarily on the online platform. The customers who make a purchase consume directly for themselves. There are small businesses that buy in bulk and sell to other customers through the retail outlet channel.
 
+
+
 # 1. Business Problem.
 Find significant customers for the business who make high purchases of their favourite products. The organization wants to roll out a loyalty program, called Insiders, to the high-value customers after identification of segments.
 
-**Dataset Description**
+**Dataset Description** : https://www.kaggle.com/vik2012kvs/high-value-customers-identification
 
 Attribute:     Description
 
@@ -31,22 +31,27 @@ CustomerID:     Customer number (Unique ID assigned to each customer)
 Country :       Country name (The name of the country where each customer resides)
 
 # 2. Business Assumptions.
+
+- Indicate customers who will be part of a loyalty program called Insiders.
+- What are the main characteristics of these customers?: Ticket, bascket size, high LTV, churn probability,high TVC prevision, purchasing propensity, age, location.
+- How many customers will be part os this group?
+- RFM model (recency, frequency,, monetary): sorted data to have a RFM Score.
+
 # 3. Solution Strategy
-My strategy to solve this challenge was:
 
-Step 01. Data Description:
+**Data Description:** rename columns, check NA values, change types.
 
-Step 02. Feature Engineering:
+**Feature Engineering:** recency, frequency, monetary, gross revenue.
 
-Step 03. Data Filtering:
+**Model Training:** K-Means
 
-Step 04. Exploratory Data Analysis:
+**Cluster Analysis:** Visualization Inspection, UMAP -t-SNE
 
-Step 05. Data Preparation:
+**Feature Engineering:** create new attributes based on the original variables using mindmap hypothesis.
 
-Step 06. Feature Selection:
+**Exploratory Data Analysis (EDA):** univariate and bivariate analysis. Space studt with PCA, UMAP, t-SNE, Tree-Based Embedding
 
-Step 07. Hyperparameter Fine_Tunning:
+**Hyperparameter Fine Tunning:** Within-Cluster Sum os Square (WSS) and Silhouette Score.
 
 Step 08. Model training:
 
