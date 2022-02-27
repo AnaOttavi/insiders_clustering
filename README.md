@@ -58,7 +58,7 @@ Country :       Country name (The name of the country where each customer reside
 <img width="1105" alt="Screen Shot 2022-02-27 at 13 07 34" src="https://user-images.githubusercontent.com/86486485/155890052-67c3ca68-0015-4c6f-8005-63c36bf2fd8c.png">
 <img width="859" alt="Screen Shot 2022-02-27 at 13 08 44" src="https://user-images.githubusercontent.com/86486485/155890087-b6fb5f9f-1999-4141-88c9-7780b0192611.png">
 
-**Deploy** Database Sqlite
+**Deploy** Database Sqlite: insiders_db.sqlite
 
 # 4. Top 3 Data Insights
 **H1** Insiders cluster has a volume of product purchases above 10% of total purchases.
