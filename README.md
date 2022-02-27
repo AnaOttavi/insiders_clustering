@@ -49,7 +49,7 @@ Country :       Country name (The name of the country where each customer reside
 
 **Exploratory Data Analysis (EDA):** univariate and bivariate analysis. Space studt with PCA, UMAP, t-SNE, Tree-Based Embedding
 
-**Hyperparameter Fine Tunning:** K-Means, GMM, Hierarchical Clustering, DBSCAN
+**Hyperparameter Fine Tuning:** K-Means, GMM, Hierarchical Clustering, DBSCAN
 <img width="1102" alt="Screen Shot 2022-02-27 at 13 06 00" src="https://user-images.githubusercontent.com/86486485/155889992-43c11cb6-cf25-4f8d-8586-b69cd50a4fcf.png">
 
 **Model training** GMM
