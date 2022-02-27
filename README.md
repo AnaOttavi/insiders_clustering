@@ -84,6 +84,7 @@ Country :       Country name (The name of the country where each customer reside
 <img width="918" alt="Screen Shot 2022-02-27 at 13 18 32" src="https://user-images.githubusercontent.com/86486485/155890381-9080fdbf-a728-4e29-88a0-cfcf17f72fa3.png">
 
 # 8. Conclusions
-<img width="918" alt="Screen Shot 2022-02-27 at 13 18 32" src="https://user-images.githubusercontent.com/86486485/155890412-30c1ba51-0c0b-4e96-9551-c9aec09834be.png">
+<img width="435" alt="Screen Shot 2022-02-27 at 13 19 22" src="https://user-images.githubusercontent.com/86486485/155890521-4046fc80-0560-4cb0-9f20-abbc574c6531.png">
+
 
 # All Rights Reserved - Comunidade DS 2021
