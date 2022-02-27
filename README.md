@@ -48,7 +48,7 @@ Country :       Country name (The name of the country where each customer reside
 
 **Feature Engineering:** create new attributes based on the original variables using mindmap hypothesis.
 
-**Exploratory Data Analysis (EDA):** univariate and bivariate analysis. Space studt with PCA, UMAP, t-SNE, Tree-Based Embedding
+**Exploratory Data Analysis (EDA):** univariate and bivariate analysis. Embedding space study with PCA, UMAP, t-SNE, Decision Tree.
 
 **Hyperparameter Fine Tuning:** K-Means, GMM, Hierarchical Clustering.
 <img width="1136" alt="Screen Shot 2022-02-27 at 17 31 05" src="https://user-images.githubusercontent.com/86486485/155898897-680b9f7c-4586-4210-b410-1ab0e3859a71.png">
