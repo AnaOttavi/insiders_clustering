@@ -51,32 +51,41 @@ Country :       Country name (The name of the country where each customer reside
 
 **Exploratory Data Analysis (EDA):** univariate and bivariate analysis. Space studt with PCA, UMAP, t-SNE, Tree-Based Embedding
 
-**Hyperparameter Fine Tunning:** Within-Cluster Sum os Square (WSS) and Silhouette Score.
+**Hyperparameter Fine Tunning:** K-Means, GMM, Hierarchical Clustering, DBSCAN
+<img width="1102" alt="Screen Shot 2022-02-27 at 13 06 00" src="https://user-images.githubusercontent.com/86486485/155889992-43c11cb6-cf25-4f8d-8586-b69cd50a4fcf.png">
 
-Step 08. Model training:
+**Model training** GMM
 
-Step 09. Cluster Analysis:
+**Cluster Analysis**
+<img width="1105" alt="Screen Shot 2022-02-27 at 13 07 34" src="https://user-images.githubusercontent.com/86486485/155890052-67c3ca68-0015-4c6f-8005-63c36bf2fd8c.png">
+<img width="859" alt="Screen Shot 2022-02-27 at 13 08 44" src="https://user-images.githubusercontent.com/86486485/155890087-b6fb5f9f-1999-4141-88c9-7780b0192611.png">
 
-Step 10. Deploy to Production:
+**Deploy** Database Sqlite
 
 # 4. Top 3 Data Insights
-Hypothesis 01:
+**H1** Insiders cluster has a volume of product purchases above 10% of total purchases.
 
-True/False.
+**True** Insiders cluster has a product purchase volume of 38%
 
-Hypothesis 02:
+**H2** Insiders cluster has a volume of gross revenue above 10% of total purchases.
 
-True/False.
+**True** Insiders cluster has GMV colume of 41%.
 
-Hypothesis 03:
+**H5** The GMV of cluster Insiders is concentrated in the 3rd quartile.
 
-True/False.
+**False** The GMV of cluster Insiders is concentrated in the 1rd quartile.
+<img width="1125" alt="Screen Shot 2022-02-27 at 13 15 19" src="https://user-images.githubusercontent.com/86486485/155890296-21473018-6495-4909-a7d3-53f7dc27ddfd.png">
 
 # 5. Machine Learning Model Applied
+<img width="600" alt="Screen Shot 2022-02-27 at 13 16 24" src="https://user-images.githubusercontent.com/86486485/155890327-b1896660-3a58-4a3f-affa-f05da054a871.png">
+
 # 6. Machine Learning Modelo Performance
+<img width="678" alt="Screen Shot 2022-02-27 at 13 17 19" src="https://user-images.githubusercontent.com/86486485/155890354-7b357853-0954-4a04-994f-9a09a6c7ff16.png">
+
 # 7. Business Results
+<img width="918" alt="Screen Shot 2022-02-27 at 13 18 32" src="https://user-images.githubusercontent.com/86486485/155890381-9080fdbf-a728-4e29-88a0-cfcf17f72fa3.png">
+
 # 8. Conclusions
-# 9. Lessons Learned
-# 10. Next Steps to Improve
-# LICENSE
+<img width="918" alt="Screen Shot 2022-02-27 at 13 18 32" src="https://user-images.githubusercontent.com/86486485/155890412-30c1ba51-0c0b-4e96-9551-c9aec09834be.png">
+
 # All Rights Reserved - Comunidade DS 2021
