@@ -43,8 +43,6 @@ Country :       Country name (The name of the country where each customer reside
 
 **Feature Engineering:** recency, frequency, monetary, gross revenue.
 
-**Model Training:** K-Means
-
 **Cluster Analysis:** Visualization Inspection, UMAP -t-SNE
 
 **Feature Engineering:** create new attributes based on the original variables using mindmap hypothesis.
