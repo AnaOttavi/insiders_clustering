@@ -44,19 +44,14 @@ Country :       Country name (The name of the country where each customer reside
 **Feature Engineering:** recency, frequency, monetary, gross revenue.
 
 **Cluster Analysis:** Visualization Inspection, UMAP -t-SNE
+<img width="1142" alt="Screen Shot 2022-02-27 at 17 34 27" src="https://user-images.githubusercontent.com/86486485/155898928-fcb23108-9273-4942-a1bc-726c9ba7f34b.png">
 
 **Feature Engineering:** create new attributes based on the original variables using mindmap hypothesis.
 
 **Exploratory Data Analysis (EDA):** univariate and bivariate analysis. Space studt with PCA, UMAP, t-SNE, Tree-Based Embedding
 
-**Hyperparameter Fine Tuning:** K-Means, GMM, Hierarchical Clustering, DBSCAN
-<img width="1102" alt="Screen Shot 2022-02-27 at 13 06 00" src="https://user-images.githubusercontent.com/86486485/155889992-43c11cb6-cf25-4f8d-8586-b69cd50a4fcf.png">
-
-**Model training** GMM
-
-**Cluster Analysis**
-<img width="1105" alt="Screen Shot 2022-02-27 at 13 07 34" src="https://user-images.githubusercontent.com/86486485/155890052-67c3ca68-0015-4c6f-8005-63c36bf2fd8c.png">
-<img width="859" alt="Screen Shot 2022-02-27 at 13 08 44" src="https://user-images.githubusercontent.com/86486485/155890087-b6fb5f9f-1999-4141-88c9-7780b0192611.png">
+**Hyperparameter Fine Tuning:** K-Means, GMM, Hierarchical Clustering.
+<img width="1136" alt="Screen Shot 2022-02-27 at 17 31 05" src="https://user-images.githubusercontent.com/86486485/155898897-680b9f7c-4586-4210-b410-1ab0e3859a71.png">
 
 **Deploy** Database Sqlite: insiders_db.sqlite
 
