@@ -88,3 +88,9 @@ Country :       Country name (The name of the country where each customer reside
 
 
 # All Rights Reserved - Comunidade DS 2021
+
+Please feel free to contact me.
+Linkedin:https://br.linkedin.com/in/anacarolinaottavi
+
+WHat I learned in a clustering project...
+Medium: https://medium.com/@anacarolinaottavi/what-i-learned-in-a-clustering-project-e69d7d3838c7
