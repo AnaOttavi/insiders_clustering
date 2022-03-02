@@ -79,7 +79,13 @@ Country :       Country name (The name of the country where each customer reside
 <img width="918" alt="Screen Shot 2022-02-27 at 13 18 32" src="https://user-images.githubusercontent.com/86486485/155890381-9080fdbf-a728-4e29-88a0-cfcf17f72fa3.png">
 
 # 8. Conclusions
-<img width="435" alt="Screen Shot 2022-02-27 at 13 19 22" src="https://user-images.githubusercontent.com/86486485/155890521-4046fc80-0560-4cb0-9f20-abbc574c6531.png">
+**Cluster Insiders**
+- Number of Custmers: 495 (25,26% of customers)
+- Average Recency: 77 days
+- Average Purchase: 399
+- Average Revenue: 8311.14 dollars
+- Freuency of Purchase: 0.37 products/day
+- Quantity of Returns: 290
 
 
 # All Rights Reserved - Comunidade DS 2021
