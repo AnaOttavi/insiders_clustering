@@ -8,7 +8,7 @@ A UK-based online retail store has captured the sales data for different product
 
 
 # 1. Business Problem.
-Find significant customers for the business who make high purchases of their favourite products. The organization wants to roll out a loyalty program, called Insiders, to the high-value customers after identification of segments.
+Find significant customers for the business who make high purchases of their favorite products. The organization wants to roll out a loyalty program, called Insiders, to the high-value customers after identification of segments.
 
 **Dataset Description** : https://www.kaggle.com/vik2012kvs/high-value-customers-identification
 
